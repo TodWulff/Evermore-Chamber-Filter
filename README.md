@@ -3,7 +3,9 @@ My spin on a Nevermore Duo Chamber Filter:
 
 ![https://i.imgur.com/fyhKwSX.jpeg](https://i.imgur.com/fyhKwSX.jpeg)
 
-Evermore is a play on words, intended to convey pseudo-immortality (when contrasted with the short but glorious life of my Nevermore :) ). Props and special thanks to Discord User 0ndsk4#5933 for his work in developing the wickedly popular Nevermore series. Kudos, kind sir.
+Evermore is a play on words, intended to convey pseudo-immortality (when contrasted with the short but glorious life of my Nevermore :) ).
+
+Props and special thanks to Discord User 0ndsk4#5933 for his work in developing the wickedly popular Nevermore series. Kudos, kind sir.
 
 I run a 350 Voron v2.4 with a 650W bed heater. The Nevermore Duo (v5.v2) was my version of choice for a Filter and Chamber Air Stirring setup.
 
