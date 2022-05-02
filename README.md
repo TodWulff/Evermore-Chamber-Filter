@@ -1,6 +1,8 @@
 # Evermore-Chamber-Filter
 My spin on a Nevermore Duo Chamber Filter:
+
 ![https://i.imgur.com/fyhKwSX.jpeg](https://i.imgur.com/fyhKwSX.jpeg)
+
 Evermore is a play on words, intended to convery pseudo-immortality (when contrasted with the short but glorious life of the Nevermore :) ).
 Props and special thanks to https://discord.com/user/Ondsk4#5933 for his work in developing the wickedly popular Nevermore series.  Kudos, kind sir.
 
@@ -10,7 +12,9 @@ For me, with the bed heater sitting just above the dual 5015s, when positioned a
 
 Unit on the left was the first prototype.  Unit on the right is what is attached hereto (minor mods on the air inlet geometry/positioning).  Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.
 
-There is plenty of clearance when positioned as such:  https://i.imgur.com/ci1TwO6.jpeg
+There is plenty of clearance when positioned as such:
+
+![https://i.imgur.com/ci1TwO6.jpeg](https://i.imgur.com/ci1TwO6.jpeg)
 
 I am not 3D CAD skilled, so I did this all in Prusa Slicer.  I've attached the project file in the event that other's want to spin up a similar setup.  The 3mf is attached hereto.
 
