@@ -7,7 +7,7 @@ Evermore is a play on words, intended to convey pseudo-immortality (when contras
 
 I run a Voron v2.4 with a 650W bed heater. The Nevermore Duo (v5.v2) was my version of choice for a Filter and Chamber Air Stirring setup.
 
-For me, with the bed heater sitting just above the dual 5015s, when positioned as originally intended, I ended up destroying 4 fans in as many months and had uber warping over time with the ABS Nevermore parts. I posit that it is simply too hot thereunder the bed/heater. So, I decided to tackle this problem via redesigning the implementation into a split context, with elongated cartridges, with the two units sitting along each side the bed. Hopefully this approach will serve to provide ample filtering and stirring of the chamber air while not exposing the blower motors to extreme temperatures that inevitably lead to their early demise.
+For me, with the bed heater sitting just above the dual 5015s, when positioned as originally intended, I ended up destroying 4 fans in as many months and had uber warping over time with the ABS Nevermore parts. I posit that it is simply too hot thereunder the bed/heater. So, I decided to tackle this problem via redesigning the implementation into a split context, with elongated cartridges, with the two units sitting along the sides of the bed. Hopefully this approach will serve to provide ample filtering and stirring of the chamber air while not exposing the blower motors to extreme temperatures that inevitably lead to their early demise.
 
 Unit on the left was the first prototype. Unit on the right is what is attached hereto (minor mods on the air inlet geometry/positioning). Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.
 
