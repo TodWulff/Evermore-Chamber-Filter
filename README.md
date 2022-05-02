@@ -17,7 +17,7 @@ There is plenty of clearance when positioned as such:
 
 I am not 3D CAD skilled (read as 'I AM a hack'), so I did this all in Prusa Slicer. I've attached the project file if others wish to spin up a similar setup. The 3mf was crafted in PS 2.4.2, in case that matters…
 
-Unit on the left was the first prototype. Unit on the right is what is attached hereto (minor mods on the air inlet geometry/positioning). Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.  Being a hack, I just turned into the hulk for a sec and forced them them into place - Bob's yer uncle...
+Unit on the left was the first prototype. Unit on the right is what is attached hereto (minor mods on the air inlet geometry/positioning). Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.  Being a hack, I just turned into the hulk for a sec and forced them into place - Bob's yer uncle...
 
 Enjoy.  Happy printing!
 
