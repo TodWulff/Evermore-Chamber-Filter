@@ -17,6 +17,8 @@ There is plenty of clearance when positioned as such:
 
 I am not 3D CAD skilled (read as 'I AM a hack'), so I did this all in Prusa Slicer. I've attached the project file if others wish to spin up a similar setup. The 3mf was crafted in PS 2.4.2, in case that matters…
 
+04May22 Update:  Generated gcode and then, using Voxelizer (a slicer w/ unique UI), imported the gcode and generated meshes (stl files) from same - conceptually, deslicing... lol  Anyways, this should ease the pain related to slicer drama when using the original .3mf project files.
+
 Unit on the left was the first prototype. Unit on the right is what is attached hereto (minor mods on the air inlet geometry/positioning). Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.  Being a hack, I just turned into the hulk for a sec and forced them into place - Bob's yer uncle...
 
 Enjoy.  Happy printing!
