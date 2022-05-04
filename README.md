@@ -17,9 +17,13 @@ There is plenty of clearance when positioned as such:
 
 I am not 3D CAD skilled (read as 'I AM a hack'), so I did this all in Prusa Slicer. I've attached the project file if others wish to spin up a similar setup. The 3mf was crafted in PS 2.4.2, in case that matters…
 
-04May22 Update:  Generated gcode and then, using Voxelizer (a slicer w/ unique UI), imported the gcode and generated meshes (stl files) from same - conceptually, deslicing... (lol).  Anyways, this should ease the pain in printing these items by avoiding slicer drama when using the original .3mf project files.
-
 Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.  Being a hack, I just turned into the hulk for a sec and forced them into place - Bob's yer uncle...
+
+## 04May22 Update
+
+Generated gcode and then, using Voxelizer (an interesting slicer w/ a unique UI), imported the gcode and generated meshes (stl files) from same - conceptually, deslicing... (lol).  Anyways, this should ease the pain in printing these items by avoiding slicer drama when using the original .3mf project files.
+
+Also created an UNTESTED version targeted at the Trident (for mounting under the bed on the 2020 extrusions arranged like a 'T').  This version has members that are intended to be inserted into the extrusion slots.  The motor housing should be mounted on the inside corner of the 'T' with the back slotted and affixed with a M3/tnut through either side (laterally, just behind the magnets, as on the original Nevermore).  The cartridge has members on both sides enabling use on either side of the 'T'.  Further, on the outlet end of the cartridge, on each side, blocks were added with fastener recess  provisions allowing one to affx one side of the end to the extrusion if needed (if they are not needed, one can just cut them off, if so desired).  Due to these additions, it is recommended to add support enforcers on these elements.  If you end up employing the Trident version, please do provide feedback.
 
 Enjoy.  Happy printing!
 
