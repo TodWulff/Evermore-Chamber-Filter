@@ -15,6 +15,12 @@ There is plenty of clearance when positioned as such:
 
 ![https://i.imgur.com/ci1TwO6.jpeg](https://i.imgur.com/ci1TwO6.jpeg)
 
+Unit Dimensions are approximately 77mmx197mmx21mm:
+
+![https://i.imgur.com/PBGDGnb.png](https://i.imgur.com/PBGDGnb.png)
+![https://i.imgur.com/DgXHlhj.jpeg](https://i.imgur.com/DgXHlhj.jpeg)
+![https://i.imgur.com/oz97mg3.png](https://i.imgur.com/oz97mg3.png)
+
 I am not 3D CAD skilled (read as 'I AM a hack'), so I did this all in Prusa Slicer. I've attached the project file if others wish to spin up a similar setup. The 3mf was crafted in PS 2.4.2, in case that matters…
 
 Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.  Being a hack, I just turned into the hulk for a sec and forced them into place - Bob's yer uncle...
