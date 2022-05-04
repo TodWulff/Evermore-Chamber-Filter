@@ -1,7 +1,7 @@
 # Evermore-Chamber-Filter
 My spin on a Nevermore Duo Chamber Filter:
 
-![https://i.imgur.com/fyhKwSX.jpeg](https://i.imgur.com/fyhKwSX.jpeg)
+![https://i.imgur.com/EaD1NIT.jpeg](https://i.imgur.com/EaD1NIT.jpeg)
 
 Evermore is a play on words, intended to convey pseudo-immortality (when contrasted with the short but glorious life of my Nevermore :) ).
 
@@ -19,7 +19,7 @@ I am not 3D CAD skilled (read as 'I AM a hack'), so I did this all in Prusa Slic
 
 04May22 Update:  Generated gcode and then, using Voxelizer (a slicer w/ unique UI), imported the gcode and generated meshes (stl files) from same - conceptually, deslicing... (lol).  Anyways, this should ease the pain in printing these items by avoiding slicer drama when using the original .3mf project files.
 
-Unit on the left was the first prototype. Unit on the right is what is attached hereto (minor mods on the air inlet geometry/positioning). Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.  Being a hack, I just turned into the hulk for a sec and forced them into place - Bob's yer uncle...
+Fan tolerances are tight, might need to file a bit on the nubbins when assembling them.?.  Being a hack, I just turned into the hulk for a sec and forced them into place - Bob's yer uncle...
 
 Enjoy.  Happy printing!
 
