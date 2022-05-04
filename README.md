@@ -19,7 +19,7 @@ Unit Dimensions are approximately 77mmx197mmx21mm:
 
 ![https://i.imgur.com/PBGDGnb.png](https://i.imgur.com/PBGDGnb.png)
 ![https://i.imgur.com/DgXHlhj.jpeg](https://i.imgur.com/DgXHlhj.jpeg)
-![https://i.imgur.com/oz97mg3.png](https://i.imgur.com/oz97mg3.png)
+![https://i.imgur.com/EUYT1mo.png](https://i.imgur.com/EUYT1mo.png)
 
 I am not 3D CAD skilled (read as 'I AM a hack'), so I did this all in Prusa Slicer. I've attached the project file if others wish to spin up a similar setup. The 3mf was crafted in PS 2.4.2, in case that matters…
 
