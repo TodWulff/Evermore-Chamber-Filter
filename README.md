@@ -25,6 +25,8 @@ There is plenty of clearance when positioned as such:
 
 ![https://i.imgur.com/ci1TwO6.jpeg](https://i.imgur.com/ci1TwO6.jpeg)
 
+![https://i.imgur.com/92kEmb5.png](https://i.imgur.com/92kEmb5.png)
+
 Unit Dimensions are approximately 77mmx197mmx21mm:
 
 ![https://i.imgur.com/PBGDGnb.png](https://i.imgur.com/PBGDGnb.png)
