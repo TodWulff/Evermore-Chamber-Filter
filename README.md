@@ -43,7 +43,8 @@ Generated gcode and then, using Voxelizer (an interesting slicer w/ a unique UI)
 
 Also created an ~~UNTESTED~~ version targeted at the Trident (for mounting under the bed on the 2020 extrusions arranged like a 'T').  This version has members that are intended to be inserted into the extrusion slots.  It works well, once I reduced the dimension of the slot support members:
 
-![https://i.imgur.com/Asvu5V5.png](https://i.imgur.com/Asvu5V5.png) ![https://i.imgur.com/CcRMBzr.png](https://i.imgur.com/CcRMBzr.png)
+![https://i.imgur.com/CcRMBzr.png](https://i.imgur.com/CcRMBzr.png)
+![https://i.imgur.com/Asvu5V5.png](https://i.imgur.com/Asvu5V5.png) 
 
 The motor housing should be mounted on the inside corner of the 'T' with the back slotted and affixed with a M3/tnut through either side (laterally, just behind the magnets, as on the original Nevermore).  The cartridge has members on both sides enabling use on either side of the 'T'.  Further, on the outlet end of the cartridge, on each side, blocks were added with fastener recess  provisions allowing one to affx one side of the end to the extrusion if needed (if they are not needed, one can just cut them off, if so desired).  Due to these additions, it is recommended to add support enforcers on these elements (depicted with green in the following image).  If you end up employing the Trident version, please do provide feedback.
 
