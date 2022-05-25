@@ -41,7 +41,7 @@ Fan tolerances are tight, might need to file a bit on the nubbins when assemblin
 
 Generated gcode and then, using Voxelizer (an interesting slicer w/ a unique UI), imported the gcode and generated meshes (stl files) from same - conceptually, deslicing... (lol).  Anyways, this should ease the pain in printing these items by avoiding slicer drama when using the original .3mf project files.
 
-Also created an ~~UNTESTED~~ version targeted at the Trident (for mounting under the bed on the 2020 extrusions arranged like a 'T').  This version has members that are intended to be inserted into the extrusion slots.  It works well, once the dimension of the slot support members was reduced:
+Also created ~~an UNTESTED~~ a version targeted at the Trident (for mounting under the bed on the 2020 extrusions arranged like a 'T').  This version has members that are intended to be inserted into the extrusion slots.  It works well, once the dimension of the slot support members was reduced:
 
 ![https://i.imgur.com/Y5iW2gG.png](https://i.imgur.com/Y5iW2gG.png)
 
