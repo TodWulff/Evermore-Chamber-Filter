@@ -3,7 +3,7 @@ My spin on a Nevermore Duo Chamber Filter:
 
 Optional mountings:
 
-On printer deck with the two units sitting along the sides of the bed"
+On printer deck with the two units sitting along the sides of the bed:
 
 ![https://i.imgur.com/EaD1NIT.jpeg](https://i.imgur.com/EaD1NIT.jpeg)
 
